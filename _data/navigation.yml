@@ -1,0 +1,25 @@
+# main links links
+main:
+  # - title: "Home"
+  #   url: /
+
+  - title: "Sobre"
+    url: /about/
+
+  - title: "Consultoria"
+    url: /consulting/
+
+  - title: "Ensino"
+    url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Palestras"
+  #   url: /talks/    
+
+  # - title: "Publicações"
+  #   url: /publications/
