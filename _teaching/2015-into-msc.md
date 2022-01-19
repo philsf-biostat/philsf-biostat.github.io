@@ -8,13 +8,13 @@ date: 2015-01-01
 location: "Rio de Janeiro, RJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- **Experiência:** 2015.1 a 2019.2 (5 anos completos).
 
-Heading 1
-======
+Disciplinas completas ministradas:
 
-Heading 2
-======
+- **Bioestatística**
+- **Metodologia da Pesquisa Aplicada**
 
-Heading 3
-======
+Colaboração em disciplinas:
+
+- (2017) **Pesquisa Bibliográfica em Bases de Dados** -- Aula avulsa em técnicas de apresentação

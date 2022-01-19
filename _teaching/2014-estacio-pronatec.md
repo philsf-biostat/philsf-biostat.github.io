@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "Rio de Janeiro, RJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- **Experiência:** um semestre no programa PRONATEC.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Ensino de Matemática básica para alunos de cursos técnicos do PRONATEC.
