@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-anhanguera-grad
 venue: "Centro Universitário Anhanguera de Niterói"
-date: 2014-01-01
+date: 2013-12-01
 location: "Niterói, RJ"
 ---
 
