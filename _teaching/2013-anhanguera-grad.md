@@ -1,9 +1,9 @@
 ---
 title: "Engenharia (disciplinas variadas)"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduação"
 permalink: /teaching/2013-anhanguera-grad
-venue: "Centro Universitário Anhanguera de Niterói"
+venue: "Centro Universitário Anhanguera de Niterói (UNIAN)"
 date: 2013-12-01
 location: "Niterói, RJ"
 ---

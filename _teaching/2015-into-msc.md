@@ -1,9 +1,9 @@
 ---
 title: "Mestrado Profissional em Ciências Aplicadas ao Sistema Músculo Esquelético"
 collection: teaching
-type: "Masters course"
+type: "Mestrado em Ciências da Saúde"
 permalink: /teaching/2015-into-msc
-venue: "Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad"
+venue: "Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad (INTO)"
 date: 2015-01-01
 location: "Rio de Janeiro, RJ"
 ---
