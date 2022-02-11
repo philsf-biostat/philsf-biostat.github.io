@@ -67,10 +67,9 @@ Tipos de estudo:
 <!--   {% include archive-single.html %} -->
 <!-- {% endfor %} -->
 
-Você também pode consultar a [listagem completa de trabalhos incluídos no portfólio][].
+Você também pode consultar a [listagem completa de trabalhos incluídos no portfólio][portfolio].
 
-[listagem completa de trabalhos realizados]: /portfolio/
-
+[portfolio]: /portfolio/
 [email]: mailto:prof.felipefigueiredo@gmail.com
 [linkedin]: https://www.linkedin.com/in/philsf/
 [fiverr-base]: https://www.fiverr.com/
@@ -80,7 +79,7 @@ Você também pode consultar a [listagem completa de trabalhos incluídos no por
 [cross-sectional]: /categories/#cross-sectional
 [cohort]: /categories/#cohort
 [case-control]: /categories/#case-control
-[systematic-review]: /categories/systematic-review
+[systematic-review]: /categories/#systematic-review
 
 [prevalence]: /tags/#prevalence
 [incidence]: /tags/#incidence
@@ -90,5 +89,5 @@ Você também pode consultar a [listagem completa de trabalhos incluídos no por
 [meta-analysis]: /tags/#meta-analysis
 [bioassay]: /categories/#bioassay
 [concordance-analysis]: /tags/#concordance-analysis
-[missing-data-imputation]: /tags/missing-data-imputation
-[survey]: /tags/survey
+[missing-data-imputation]: /tags/#missing-data-imputation
+[survey]: /tags/#survey
