@@ -44,19 +44,22 @@ Já contribuí com avaliações epidemiológicas em projetos de diversas caracte
 
 Desenhos de estudo:
 
-- transversal
-- coorte / coorte retrospectiva
-- caso-controle
-<!-- - revisão sistemática -->
+- [transversal][cross-sectional]
+- [coorte / coorte retrospectiva][cohort]
+- [caso-controle][case-control]
+<!-- - [revisão sistemática][systematic-review] -->
 
 Tipos de estudo:
 
-- prevalência
-- incidência
-- diagnóstico
-- prognóstico / tempo-até-evento / análise de sobrevida
-- bioensaios
-- concordância / comparação de métodos
+- [prevalência][prevalence]
+- [incidência][incidence]
+- [diagnóstico][diagnostic-models]
+- [prognóstico][prognostic-models] / [tempo-até-evento / análise de sobrevida][survival-analysis]
+- [survey][survey]
+- [bioensaios][bioassay]
+- [concordância / comparação de métodos][concordance-analysis]
+- [imputação de dados faltantes / imputação múltipla][missing-data-imputation]
+<!-- - [meta-análise][meta-analysis] -->
 
 <!-- Estes são alguns relatórios recentes destacados: -->
 
@@ -64,12 +67,28 @@ Tipos de estudo:
 <!--   {% include archive-single.html %} -->
 <!-- {% endfor %} -->
 
-<!-- Você também pode consultar a [listagem completa de trabalhos realizados][]. -->
+Você também pode consultar a [listagem completa de trabalhos incluídos no portfólio][].
 
-[listagem completa de trabalhos realizados]: ../portfolio/full
+[listagem completa de trabalhos realizados]: /portfolio/
 
 [email]: mailto:prof.felipefigueiredo@gmail.com
 [linkedin]: https://www.linkedin.com/in/philsf/
 [fiverr-base]: https://www.fiverr.com/
 [fiverr-pro]: https://www.fiverr.com/pro/about
 [fiverr-catalogo]: https://www.fiverr.com/freelancers/philsf79
+
+[cross-sectional]: /categories/#cross-sectional
+[cohort]: /categories/#cohort
+[case-control]: /categories/#case-control
+[systematic-review]: /categories/systematic-review
+
+[prevalence]: /tags/#prevalence
+[incidence]: /tags/#incidence
+[diagnostic-models]: /tags/#diagnostic-models
+[prognostic-models]: /tags/#prognostic-models
+[survival-analysis]: /tags/#survival-analysis
+[meta-analysis]: /tags/#meta-analysis
+[bioassay]: /categories/#bioassay
+[concordance-analysis]: /tags/#concordance-analysis
+[missing-data-imputation]: /tags/missing-data-imputation
+[survey]: /tags/survey
