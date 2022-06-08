@@ -74,7 +74,7 @@ Você também pode consultar a [listagem completa de trabalhos incluídos no por
 [linkedin]: https://www.linkedin.com/in/philsf/
 [fiverr-base]: https://www.fiverr.com/
 [fiverr-pro]: https://www.fiverr.com/pro/about
-[fiverr-catalogo]: https://www.fiverr.com/freelancers/philsf79
+[fiverr-catalogo]: https://business.fiverr.com/freelancers/philsf79
 
 [cross-sectional]: /categories/#cross-sectional
 [cohort]: /categories/#cohort
