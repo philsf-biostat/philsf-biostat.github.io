@@ -58,7 +58,7 @@ Tipos de estudo:
 - [survey][survey]
 - [bioensaios][bioassay]
 - [concordância / comparação de métodos][concordance-analysis]
-- [imputação de dados faltantes / imputação múltipla][missing-data-imputation]
+- [imputação de dados faltantes / imputação múltipla][imputation-models]
 <!-- - [meta-análise][meta-analysis] -->
 
 <!-- Estes são alguns relatórios recentes destacados: -->
@@ -89,5 +89,5 @@ Você também pode consultar a [listagem completa de trabalhos incluídos no por
 [meta-analysis]: /tags/#meta-analysis
 [bioassay]: /categories/#bioassay
 [concordance-analysis]: /tags/#concordance-analysis
-[missing-data-imputation]: /tags/#missing-data-imputation
+[imputation-models]: /tags/#imputation-models
 [survey]: /tags/#survey
