@@ -47,6 +47,7 @@ Desenhos de estudo:
 - [transversal][cross-sectional]
 - [coorte / coorte retrospectiva][cohort]
 - [caso-controle][case-control]
+- [ensaio clínico][clinical-trial]
 <!-- - [revisão sistemática][systematic-review] -->
 
 Tipos de estudo:
@@ -79,6 +80,7 @@ Você também pode consultar a [listagem completa de trabalhos incluídos no por
 [cross-sectional]: /categories/#cross-sectional
 [cohort]: /categories/#cohort
 [case-control]: /categories/#case-control
+[clinical-trial]: /categories/#clinical-trial
 [systematic-review]: /categories/#systematic-review
 
 [prevalence]: /tags/#prevalence
